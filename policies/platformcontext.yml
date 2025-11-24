@@ -1,10 +1,10 @@
 name: platform_context
 description: The context for GitOps platform, this will drive GitOps specific policies
-owner: 
+owner: Cnp11784
 resource: repository
-where: 
-configuration:
+where: Global
+configuration: mac os 
   platformContext:
     active: true
-onFailure: 
-onSuccess:
+onFailure: falsd
+onSuccess:true
