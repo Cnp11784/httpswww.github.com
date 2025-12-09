@@ -4,7 +4,7 @@ owner: Cnp11784
 resource: repository
 where: Global
 configuration: mac os 
-  platformContext:
-    active: true
-onFailure: falsd
+  platformContext:microsoft365
+    active: false
+onFailure: false
 onSuccess:true
